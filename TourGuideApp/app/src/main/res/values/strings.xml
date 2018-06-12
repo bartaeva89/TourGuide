@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">Tour Guide</string>
+    <string name="debrecen">Debrecen</string>
+    <string name="gyor">Győr</string>
+    <string name="veszprem">Veszprém</string>
+    <string name="budapest">Budapest</string>
+    <string name="bences_name">Loyolai Szent Ignác bencés templom</string>
+    <string name="bences_address">Győr, Széchenyi tér, 9022</string>
+    <string name="eszeterhazy_name">Esterházy-palota</string>
+    <string name="eszterhazy_address">Győr, Király u. 17, 9021</string>
+    <string name="kovacs_name">Kovács Margit Múzeum</string>
+    <string name="kovacs_address">Győr, Apáca u. 1, 9021</string>
+    <string name="kinttenberg_name">Kittenberger Kálmán Növény- és Vadaspark</string>
+    <string name="kinttenberg_address">Veszprém, Kittenberger Kálmán u. 17, 8200</string>
+    <string name="gizella_name">Gizella kápolna</string>
+    <string name="gizella_address">Veszprém, Vár u. 16, 8200</string>
+    <string name="dino_name">Dínó Park</string>
+    <string name="dino_address">8200, Kittenberger Kálmán u. 14-15, 8200</string>
+    <string name="var_name">Veszprémi vár</string>
+    <string name="var_address">Veszprém, 8200</string>
+    <string name="nagytemplom_name">Debrecen Nagytemplom</string>
+    <string name="nagytemplom_address">Debrecen, Kossuth tér 1, 4026</string>
+    <string name="botanikus_name">Egyetemi Botanikus Kert</string>
+    <string name="botanikus_address">Debrecen, Móricz Zsigmond út, 4032</string>
+    <string name="modem_name">MODEM Modern és Kortárs Művészeti Központ</string>
+    <string name="modem_address">Debrecen, Baltazár Dezső tér, 4026</string>
+    <string name="refkoll_name">Debreceni Református Kollégium Múzeuma</string>
+    <string name="refkoll_address">Debrecen, Kálvin tér 16, 4026</string>
+    <string name="kerekerdo_name">Kerekerdő Élménypark</string>
+    <string name="kerekerdo_address">Debrecen, Olimpia fasor 23., 4002</string>
+    <string name="budaivar_nane">Budai Vár</string>
+    <string name="budaivar_address">Budapest, Szent György tér 2, 1014</string>
+    <string name="halaszbastya_name">Halászbástya</string>
+    <string name="halaszbastya_address">Budapest, Szentháromság tér, 1014</string>
+    <string name="orszaghaz_name">Országház</string>
+    <string name="orszaghaz_address">Budapest, Kossuth Lajos tér 1-3, 1055</string>
+    <string name="szechenyi_name">Széchenyi Gyógyfürdő</string>
+    <string name="szechenyi_address">Budapest, Állatkerti krt. 9-11, 1146</string>
+    <string name="hosok_name">Hősők tere</string>
+    <string name="hosok_address">Hősök tere, 1146</string>
+</resources>
+
+
